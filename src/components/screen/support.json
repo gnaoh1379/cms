@@ -1,0 +1,21 @@
+{
+  "collectionName": "components_screen_supports",
+  "info": {
+    "displayName": "Support"
+  },
+  "options": {},
+  "attributes": {
+    "title": {
+      "type": "string"
+    },
+    "icon": {
+      "type": "string"
+    },
+    "click_action_type": {
+      "type": "string"
+    },
+    "click_action_param": {
+      "type": "string"
+    }
+  }
+}

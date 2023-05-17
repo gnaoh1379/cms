@@ -1,0 +1,12 @@
+{
+  "collectionName": "components_support_screens_support_screens",
+  "info": {
+    "displayName": "Support Screen"
+  },
+  "options": {},
+  "attributes": {
+    "test": {
+      "type": "string"
+    }
+  }
+}
